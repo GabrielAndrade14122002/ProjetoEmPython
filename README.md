@@ -1,1 +1,2 @@
 # ProjetoEmPython
+simulador de dado
